@@ -1,2 +1,0 @@
-# MyCsharpPractices
-Various coding practices
